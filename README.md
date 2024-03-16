@@ -30,13 +30,13 @@ It provides an EMI (Equated Monthly Installment) portal for an e-commerce platfo
    - Clean and Intuitive UI
       - Providing a seamless user experience
 ## Technologies Used
-Java
-Spring MVC
-Hibernate
-MySQL
-HTML/CSS
-JavaScript
-Maven
+Java,
+Spring MVC,
+Hibernate,
+MySQL,
+HTML/CSS,
+JavaScript,
+Maven.
 
 ## Installation
 
@@ -60,13 +60,30 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Screenshots
 - Home Page
-Show Image
+![Home Screen](https://github.com/miteshgaonkar/FinanceProject/assets/56105301/1b7b716e-19bb-4091-a272-c6988584ba33)
 
 - Product Catalog
-Show Image
+![Prooduct Screen](https://github.com/miteshgaonkar/FinanceProject/assets/56105301/a929e713-8063-4550-9828-5b3d0ba308e3)
 
-- EMI Calculator
-Show Image
+- Customer Dashboard
+![Customer Dashboard](https://github.com/miteshgaonkar/FinanceProject/assets/56105301/7b2ae181-6281-4b4b-97b7-c3c560f77780)
 
-- Admin Dashboard
-Show Image
+- Customer Home Screen After Login
+![Customer Home Screen after login](https://github.com/miteshgaonkar/FinanceProject/assets/56105301/8465eb6a-21af-4a18-87d4-4f3ef96589c7)
+
+- Registration Screen
+![Registration Screen ](https://github.com/miteshgaonkar/FinanceProject/assets/56105301/7991ea18-ed5d-47d9-ad03-db2d6396d054)
+
+- Login Screen
+![login Screen ](https://github.com/miteshgaonkar/FinanceProject/assets/56105301/b565f231-5000-4987-9088-7d486af6ace4)
+
+- Product Catalog 
+![Product Description Screen ](https://github.com/miteshgaonkar/FinanceProject/assets/56105301/63dbfd7a-df47-4e1f-a91a-5710fc7622b5)
+
+- Admin Card Approval Screen
+![Admin approval Screen ](https://github.com/miteshgaonkar/FinanceProject/assets/56105301/4429fe27-5fd8-458f-887a-cb12ad99ecb5)
+
+- Admin Add Product Screen
+![Admin add product Screen](https://github.com/miteshgaonkar/FinanceProject/assets/56105301/3dd084c0-957a-4974-93cb-c6bee88f4c9b)
+
+
